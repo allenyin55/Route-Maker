@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=4A:16:AA:E6:C9:14:89:81:49:BB:45:D3:19:65:DD:4B:8D:1F:D9:64%3Bcom.example.allen.routemaker
+
+    You can also add your credentials to an existing key, using this line:
+    4A:16:AA:E6:C9:14:89:81:49:BB:45:D3:19:65:DD:4B:8D:1F:D9:64;com.example.allen.routemaker
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBdICVpuJZzshM8P4oJcvkC-YBQoYcuVDM
+    </string>
+</resources>
